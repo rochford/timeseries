@@ -1,0 +1,6 @@
+
+* unittest AddPoint with observation in the middle of existing observations in
+* the bucket AddPoint to return a the actual Observation to be added to
+* restartLogs and an error.
+duplicates - no two observations with exact same
+* tags allowed for same timestamp.
